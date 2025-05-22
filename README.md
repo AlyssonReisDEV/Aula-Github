@@ -21,3 +21,25 @@ Rastreabilidade: O controle de versão permite trazer e embasar o arquivo utiliz
 ## Cite 3 exemplos de sistema de controle de versão?
 
 Entre os mais comuns são utilizados: CVS, Git e o SVN.
+
+Ramificações do projeto: Possibilita a divisão de tarefas em várias linhas de desenvolvimento, podendo ser trabalhadas em paralelo, sem haver interferências.
+
+Segurança: Apenas usuários com devidas permissões poderão realizar alteração. 
+
+Rastreabilidade: O controle de versão permite trazer e embasar o arquivo utilizado, sabendo: onde, o estado e a qualidade de um arquivo.
+## Cite 3 exemplos de sistema de controle de versão?
+
+Entre os mais comuns são utilizados: CVS, Git e o SVN.
+
+## Cite 3 exemplos de sistema de controle de versão?
+
+Entre os mais comuns são utilizados: CVS, Git e o SVN.
+
+Ramificações do projeto: Possibilita a divisão de tarefas em várias linhas de desenvolvimento, podendo ser trabalhadas em paralelo, sem haver interferências.
+
+Segurança: Apenas usuários com devidas permissões poderão realizar alteração. 
+
+Rastreabilidade: O controle de versão permite trazer e embasar o arquivo utilizado, sabendo: onde, o estado e a qualidade de um arquivo.
+## Cite 3 exemplos de sistema de controle de versão?
+
+Entre os mais comuns são utilizados: CVS, Git e o SVN.
