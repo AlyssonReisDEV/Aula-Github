@@ -22,9 +22,6 @@ Rastreabilidade: O controle de versão permite trazer e embasar o arquivo utiliz
 
 Entre os mais comuns são utilizados: CVS, Git e o SVN.
 
-
-
-
 # Desafio 2 
 
 Crie uma nova branch em seu repositório local com o nome “desafio 02” responda as perguntas no documento README.md:
