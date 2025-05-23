@@ -22,6 +22,7 @@ Rastreabilidade: O controle de versão permite trazer e embasar o arquivo utiliz
 
 Entre os mais comuns são utilizados: CVS, Git e o SVN.
 
+<<<<<<< HEAD
 # Desafio 2 
 
 Crie uma nova branch em seu repositório local com o nome “desafio 02” responda as perguntas no documento README.md:
@@ -44,3 +45,26 @@ O polimorfismo permite que objetos diferentes sejam tratados de forma uniforme p
 
 ## 6. Cite 5 vantagens da POO.
 Organização de código; Reutilização de código;Manutenção;Flexibilidade;modularidade
+=======
+Ramificações do projeto: Possibilita a divisão de tarefas em várias linhas de desenvolvimento, podendo ser trabalhadas em paralelo, sem haver interferências.
+
+Segurança: Apenas usuários com devidas permissões poderão realizar alteração. 
+
+Rastreabilidade: O controle de versão permite trazer e embasar o arquivo utilizado, sabendo: onde, o estado e a qualidade de um arquivo.
+## Cite 3 exemplos de sistema de controle de versão?
+
+Entre os mais comuns são utilizados: CVS, Git e o SVN.
+
+## Cite 3 exemplos de sistema de controle de versão?
+
+Entre os mais comuns são utilizados: CVS, Git e o SVN.
+
+Ramificações do projeto: Possibilita a divisão de tarefas em várias linhas de desenvolvimento, podendo ser trabalhadas em paralelo, sem haver interferências.
+
+Segurança: Apenas usuários com devidas permissões poderão realizar alteração. 
+
+Rastreabilidade: O controle de versão permite trazer e embasar o arquivo utilizado, sabendo: onde, o estado e a qualidade de um arquivo.
+## Cite 3 exemplos de sistema de controle de versão?
+
+Entre os mais comuns são utilizados: CVS, Git e o SVN.
+>>>>>>> 5093fdc4b8ca8623b6d3f3ede035c92147f7cb1c
